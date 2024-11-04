@@ -1,9 +1,9 @@
 {
   "name": "DarkCloud",
   "description": "SoundCloud Dark Theme",
-  "version": "2023.11.07",
+  "version": "2024.11.04",
   "permissions": [],
-  "icons": {"128": "darklogo.png" },
+  "icons": { "128": "darklogo.png" },
   "background": {
     "scripts": ["background.js"]
   },
@@ -16,11 +16,9 @@
   ],
   "browser_action": {
     "default_title": "DarkCloud",
-    "default_icon":"darklogo.png"
+    "default_icon": "darklogo.png"
   },
 
   "manifest_version": 2,
-  "web_accessible_resources": [
-    "css_dark.css"
-  ]
+  "web_accessible_resources": ["css_dark.css"]
 }
