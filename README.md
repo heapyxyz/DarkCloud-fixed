@@ -1,3 +1,6 @@
+> [!NOTE]  
+> SoundCloud has finally updated its UI! As part of the update, dark mode is now officially available. You can enable it [here](https://soundcloud.com/settings).
+
 # DarkCloud - Fixed
 This repo contains a fixed version of [DarkCloud - a dark-mode extension for SoundCloud](https://github.com/iamdiogo/DarkCloud).  
   
